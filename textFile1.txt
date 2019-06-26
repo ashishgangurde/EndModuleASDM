@@ -1,0 +1,19 @@
+Fabrikam is multinational company which are bike manifacturer.
+ they want solution for customer interaction and for employee 
+to cmmunicate with higher management. fabrikam has amazon 
+webservises cloud. fabrikam deployee the product on google 
+cloud in public.
+fabrikam have various product for customer.thy want display that 
+product on customer login. and another for employee to communicate 
+with higher management.
+ 
+functional requirement:
+login 
+registration 
+Availabality of product
+feedback form
+
+non-functional requirement:
+security
+Performance
+accuracy
